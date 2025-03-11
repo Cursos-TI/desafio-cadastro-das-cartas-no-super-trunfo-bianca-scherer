@@ -36,7 +36,7 @@ int main() {
 
 
     //Informações de cadastro da segunda carta:
-
+    
     printf ("Digite uma letra de A a H para definir o segundo estado: \n");
     scanf(" %c", &estado2);
     printf ("Digite a letra do segundo estado seguida de um número de 01 a 04 (ex: A01, B03): \n");
